@@ -6,4 +6,4 @@ English For Everyone 6280
 
 ## Authors
 
-- [@sanjoylab](https://github.com/sanjoy-git/english-book)
+- [@sanjoy-git](https://github.com/sanjoy-git)
