@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="preposition,english to bangla,learn,learnenglish">
+  <meta name="description" content="uses of preposition.">
+  <meta name="author" content="sanjoy">
+  <title>preposition</title>
+  <link rel="icon" type="image/x-icon" href="<%=host%>/free.ico">
+  <style>
+    *{
+      margin: 0; padding: 0; box-sizing: border-box;
+      font-family: Arial, Helvetica, sans-serif;
+      text-shadow: .5px .5px .5px gray;
+      text-decoration: none;
+    }
+
+    .noselect {
+      -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+      -khtml-user-select: none; /* Konqueror HTML */
+      -moz-user-select: none; /* Old versions of Firefox */
+      -ms-user-select: none; /* Internet Explorer/Edge */
+      user-select: none; /* Non-prefixed version, currently
+      supported by Chrome, Edge, Opera and Firefox */
+    }
+
+    body {
+      width: 100%;
+     }
+
+
+    header *{
+      color: #eee;
+    }
+
+
+    .dark-mode {
+      background-color: black;
+      color: white;
+    }
+
+  </style>
+</head>
+<body>
+  <header style="position: sticky; top: 0px; z-index: 10; background-color: #eee;">
+    
+    <!-- navbar -->
+    <%-include('header')%>
+    <hr>
+
+  </header>
+
+  <!-- body -->
+  <section style="min-height:100vh;" class="noselect">
+    <h2 style="padding: 40px 10px; text-align: center;">Developing.....</h2>
+  </section>
+
+  <!-- footer -->
+  <%-include('footer')%>
+
+
+  <script>
+    var element = document.body;
+    function darkMode() {
+      element.classList.toggle("dark-mode");
+      if(localStorage.getItem('dark')=='on'){
+        localStorage.setItem('dark', 'off');
+      }
+      else{
+        localStorage.setItem('dark', 'on');
+      }
+    }
+
+    if(localStorage.getItem('dark')=='on'){
+      element.classList.add("dark-mode");
+    }
+    
+    </script>
+</body>
+</html>

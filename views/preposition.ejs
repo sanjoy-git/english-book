@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="preposition,english to bangla,learn,learnenglish">
+  <meta name="description" content="uses of preposition.">
+  <meta name="author" content="sanjoy">
+  <title>preposition</title>
+  <link rel="icon" type="image/x-icon" href="<%=host%>/free.ico">
+  <style>
+    *{
+      margin: 0; padding: 0; box-sizing: border-box;
+      font-family: Arial, Helvetica, sans-serif;
+      text-shadow: .5px .5px .5px gray;
+      text-decoration: none;
+    }
+
+    .noselect {
+      -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+      -khtml-user-select: none; /* Konqueror HTML */
+      -moz-user-select: none; /* Old versions of Firefox */
+      -ms-user-select: none; /* Internet Explorer/Edge */
+      user-select: none; /* Non-prefixed version, currently
+      supported by Chrome, Edge, Opera and Firefox */
+    }
+
+    body {
+      width: 100%;
+     }
+
+
+    header *{
+      color: #eee;
+    }
+
+
+    .dark-mode {
+      background-color: black;
+      color: white;
+    }
+
+  </style>
+</head>
+<body>
+  <header style="position: sticky; top: 0px; z-index: 10; background-color: #eee;">
+    <!-- navbar -->
+    <%-include('header')%>
+    <nav style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; height: 30px; background-color: #222; margin-top: 1px; box-shadow: 2px 2px 2px gray;">
+      <a href="#">Home</a>
+      <a href="#to">To</a>
+      <a href="#by">By</a>
+      <a href="#on">On</a>
+      <a href="#in">In</a>
+      <a href="#at">At</a>
+      <a href="#for">For</a>
+    </nav>
+  </header>
+
+  <section style="height: auto; display: flex; justify-content: center; margin: 5px; flex-direction: column;" class="noselect">
+    <%Prepositions.forEach((item)=>{%>
+      <div id="<%=item.topic%>" style="padding-top: 80px;">
+        <div>
+          <hr style="padding-top: 5px;">
+          <h2 style="text-align: center; font-weight: bold; padding: 5px;"><%=item.top%></h2>
+          <hr style="padding-bottom: 5px;">
+        </div>
+        <ul style="margin: 55px auto 10px auto; max-width: 400px;">
+          <%item.uses.forEach((item1,index)=>{%>
+            <li style="display: flex; align-items: center; padding: 5px; margin-bottom: 50px;">
+              <span style="margin-right: 5px;"><%=index+1%>.</span>
+              <span style=""><%=item1.menning%></span>
+              <span style="padding: 0 15px;">=</span>
+              <div style="display: flex; flex-direction: column;">
+                <span><%=item1.sentence%></span>
+                <span><%=item1.sentenceMenning%></span>          
+              </div>
+            </li>
+          <%})%>
+        </ul>
+      </div>
+    <%})%>
+
+  </section>
+  <!-- footer -->
+  <%-include('footer')%>
+  <script>
+    var element = document.body;
+    function darkMode() {
+      element.classList.toggle("dark-mode");
+      if(localStorage.getItem('dark')=='on'){
+        localStorage.setItem('dark', 'off');
+      }
+      else{
+        localStorage.setItem('dark', 'on');
+      }
+    }
+
+    if(localStorage.getItem('dark')=='on'){
+      element.classList.add("dark-mode");
+    }
+    
+    </script>
+</body>
+</html>

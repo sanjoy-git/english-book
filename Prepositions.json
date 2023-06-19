@@ -1,0 +1,674 @@
+[
+  {
+    "topic":"to",
+    "top":"To এর ১৭ টি ব্যবহার।",
+    "uses":[
+      {
+        "menning":"গন্তব্য",
+        "sentence":"I go to school.",
+        "sentenceMenning":"আমি স্কুলে যায়।"
+      },
+      {
+        "menning":"উদ্দেশ্য",
+        "sentence":"I learn English to speak in english.",
+        "sentenceMenning":"আমি ইংরেজীতে কথা বলার উদ্দেশ্যে ইংরেজী শিখি।"
+      },      
+      {
+        "menning":"প্রতি",
+        "sentence":"Respect to your parents.",
+        "sentenceMenning":"তোমার পিতামাতার প্রতি সম্মান কর।"
+      },
+      {
+        "menning":"বরাবর",
+        "sentence":"Write an application to the principal.",
+        "sentenceMenning":"প্রিসিপাল বরাবর একটি দরখস্ত লিখ।"
+      },
+      {
+        "menning":"সম্পর্কে",
+        "sentence":"He is a man to friend of mine.",
+        "sentenceMenning":"সে আমার বন্ধু সম্পকের একজন মানুষ।"
+      },      
+      {
+        "menning":"অনুযায়ী",
+        "sentence":"I am here to your words.",
+        "sentenceMenning":"আমি আপনার কথা অনুযায়ী এখানে এসেছি।"
+      },
+      {
+        "menning":"পযন্ত",
+        "sentence":"Keep trying to the success.",
+        "sentenceMenning":"সফলতা পযন্ত চেষ্টা কর।"
+      },
+      {
+        "menning":"পরিনাম",
+        "sentence":"He is sentenced to the jail.",
+        "sentenceMenning":"তকে জেলে দেওয়া হল।"
+      },      
+      {
+        "menning":"কাছে",
+        "sentence":"Why does he go to him.",
+        "sentenceMenning":"সে কেন তার কাছে যায়।"
+      },
+      {
+        "menning":"পরিমানের হার",
+        "sentence":"There is a iron bar 8 inch to 10 inch in room.",
+        "sentenceMenning":"রুমটির মধ্যে ৮-১০ ইন্সি পরিমানের একটি লোহার বার আছে।"
+      },
+      {
+        "menning":"তুলনা",
+        "sentence":"I prefer ice-cream to chocolate..",
+        "sentenceMenning":"আমি চকলেট থেকে আইসক্রিম বেশি পছন্দ করি।"
+      },      
+      {
+        "menning":"রে",
+        "sentence":"Knowledge goes from man to man.",
+        "sentenceMenning":"বিদ্যা যায় মানুষের কাছ থেকে মানুষের কাছে।"
+      },
+      {
+        "menning":"নাউন",
+        "sentence":"To wolk in the morning is a good exercise.",
+        "sentenceMenning":"সকালবেলা হাটা সাস্থের জন্য একটি ভাল ব্যায়াম।"
+      },      
+      {
+        "menning":"তে",
+        "sentence":"It needs money to eat rice.",
+        "sentenceMenning":"ভাত খেতে টাকা লাগে।"
+      },
+      {
+        "menning":"না অর্থে",
+        "sentence":"He is too weak to walk.",
+        "sentenceMenning":"সে এত দুর্বল যে হাটতে পারে না।"
+      },
+      {
+        "menning":"হতে",
+        "sentence":"I want to be a skilfull teacher.",
+        "sentenceMenning":"আমি একজন দক্ষ শিক্ষক হতে চাই।"
+      },      
+      {
+        "menning":"অনুপাত",
+        "sentence":"He will do the work nine to three.",
+        "sentenceMenning":"সে নয় ভাগের তিন ভাগ কাজ করে।"
+      }
+    ]
+  },
+  {
+    "topic":"by",
+    "top":"By এর ২৩ টি ব্যবহার।",
+    "uses":[
+      {
+        "menning":"দ্বারা",
+        "sentence":"We cooked by gas.",
+        "sentenceMenning":"আমরা গ্যাস দ্বারা রান্না করি।"
+      },
+      {
+        "menning":"পাশে",
+        "sentence":"Don't sit by him.",
+        "sentenceMenning":"তার পাশে বসো না।"
+      },
+      {
+        "menning":"কাছে",
+        "sentence":"keep the bag by the wall.",
+        "sentenceMenning":"ব্যাগটি ্ওয়ালের কাছে রাখ।"
+      },
+      {
+        "menning":"নিকটে",
+        "sentence":"keep the book by the pen.",
+        "sentenceMenning":"বইটি কলমটির নিকটে রাখ।"
+      },
+      {
+        "menning":"যানবাহন",
+        "sentence":"We want to go to dhaka by bus.",
+        "sentenceMenning":"আমরা বাসে ঢাকা যেতে চাই।"
+      },
+      {
+        "menning":"অঙ্গ",
+        "sentence":"Try to eat rice by your hand.",
+        "sentenceMenning":"তোমার হাত দিয়ে ভাত খা্ওয়ার চেষ্টা কর।"
+      },
+      {
+        "menning":"শপথ",
+        "sentence":"I can't do it by god.",
+        "sentenceMenning":"ভগবানের কছম আমি এটা করতে পারবো না।"
+      },
+      {
+        "menning":"নির্দষ্ট সময়ের মধ্যে",
+        "sentence":"We shall go there by 31st night.",
+        "sentenceMenning":"আমরা সেখানে যাব থারটি ফাস্ট জানুয়ারিতে।"
+      },
+      {
+        "menning":"পরিমান",
+        "sentence":"The room is 10 feet by 15 feet.",
+        "sentenceMenning":"রুমটি ১০ ফিট বাই ১৫ ফিট।"
+      },
+      {
+        "menning":"পাশে থাকা",
+        "sentence":"We are by you.",
+        "sentenceMenning":"আমরা আপনার পাশে আছি।"
+      },
+      {
+        "menning":"সমর্থন",
+        "sentence":"They are by bangladesh.",
+        "sentenceMenning":"তারা বাংলাদেশের সমর্থনে আছে।"
+      },
+      {
+        "menning":"জন্মস্থান",
+        "sentence":"I am a bangladesh by birth",
+        "sentenceMenning":"জন্মসুত্রে একজন আমি একজন বাংলাদেশী।"
+      },
+      {
+        "menning":"নাগরিক্ত",
+        "sentence":"He is an american by citizenship.",
+        "sentenceMenning":"নাগরিক্ত সুত্রে আমি একজন আমেরিকান।"
+      },
+      {
+        "menning":"বল",
+        "sentence":"It has been done by force.",
+        "sentenceMenning":"এটা করানো হয়েছে জোর করে।"
+      },
+      {
+        "menning":"শক্তি",
+        "sentence":"He picked sohag up by force.",
+        "sentenceMenning":"সে সোহাগকে জোর করে তুলে নিল।"
+      },
+      {
+        "menning":"পরিমান",
+        "sentence":"We shall build a factory by only two miles.",
+        "sentenceMenning":"আমরা দুই মাইলের ব্যাবধানে একটি ফ্যাক্টরি তৈরি করবো।"
+      },
+      {
+        "menning":"মুখস্ত",
+        "sentence":"Learn the formula by heart.",
+        "sentenceMenning":"সুত্রটি মুখস্ত কর হৃদয় দিয়ে।"
+      },
+      {
+        "menning":"অনুসারে",
+        "sentence":"I have done it by his word.",
+        "sentenceMenning":"আমি আপনার কথা আনুসারে এটা করেছি।"
+      },
+      {
+        "menning":"অনুযায়ী",
+        "sentence":"Write a paragraph by your linking.",
+        "sentenceMenning":"আপনার কথা অনুযায়ী একটি প্যারাগ্রাফ লেখেন।"
+      },
+      {
+        "menning":"যোগাযোগের পদ",
+        "sentence":"It's easy to go to dhaka by road.",
+        "sentenceMenning":"রাস্তা দিয়ে ঢাকা যাওয়া সোজা।"
+      },
+      {
+        "menning":"ও ভাল কথা",
+        "sentence":"By the by, he came yesterday here.",
+        "sentenceMenning":"ও ভাল কথা সে কালকে এসেছিল।"
+      },
+      {
+        "menning":"বস্তুর পাশে বস্তু",
+        "sentence":"Keep this bag by the wall.",
+        "sentenceMenning":"ব্যাগটি ওয়ালের পাশে রাখ।"
+      },
+      {
+        "menning":"ব্যক্তি দ্বারা",
+        "sentence":"This work has been done by kuddus.",
+        "sentenceMenning":"এই কাজটি করানো হয়েছে কুদ্দুসকে দিয়ে।"
+      }      
+    ]
+  },
+  {
+    "topic":"from",
+    "top":"From এর ৮ টি ব্যবহার।",
+    "uses":[
+      {
+        "menning":"হতে/থেকে",
+        "sentence":"I am from bangladesh.",
+        "sentenceMenning":"আমি বাংলাদেশ থেকে এসেছি।"
+      },
+      {
+        "menning":"পার্থক্য",
+        "sentence":"Man is different from animal.",
+        "sentenceMenning":"মানুষ এবং প্রানির মধ্যে পার্থক্য আছে।"
+      },
+      {
+        "menning":"ভোগা/কষ্ট পাওয়া",
+        "sentence":"He has been suffering from fever.",
+        "sentenceMenning":"সে রোগে ভুগছে।"
+      },
+      {
+        "menning":"মুক্ত",
+        "sentence":"I am free from tension.",
+        "sentenceMenning":"আমি টেনশন থেকে মুক্ত।"
+      },
+      {
+        "menning":"উৎপন্ন",
+        "sentence":"Sweet is made from sugar.",
+        "sentenceMenning":"মিষ্টি তৈরি করা হয় চিনি থেকে।"
+      },
+      {
+        "menning":"সময় থেকে",
+        "sentence":"Our vacation will be started from monday.",
+        "sentenceMenning":"আমাদের ছুটি শুরু হবে সোমবার থেকে।"
+      },
+      {
+        "menning":"উৎস থেকে",
+        "sentence":"We get many information from facebook.",
+        "sentenceMenning":"আমরা ফেসবুক থেকে আনেক তথ্য পাই।"
+      },
+      {
+        "menning":"স্থান থেকে",
+        "sentence":"We shall go to dhaka from khulna.",
+        "sentenceMenning":"আমরা ‍খুলনা থেকে ঢাকা যাব।"
+      }
+    ]
+  },
+  {
+    "topic":"on",
+    "top":"On এর 21 টি ব্যবহার।",
+    "uses":[
+      {
+        "menning":"উপরে",
+        "sentence":"Keep the phone on the table.",
+        "sentenceMenning":"টেবিলটির উপরে ফোনটি রাখ।"
+      },
+      {
+        "menning":"দিন",
+        "sentence":"He will come at home on friday.",
+        "sentenceMenning":"সে শুক্রবার বাড়িতে আসবে।"
+      },
+      {
+        "menning":"তারিখ",
+        "sentence":"I shall go to dhaka on the 10th january.",
+        "sentenceMenning":"জানুয়ারীর ১০ তারিখে আমি ঢাকা যাব।"
+      },
+      {
+        "menning":"অনুষ্ঠান",
+        "sentence":"He come at home on this function.",
+        "sentenceMenning":"অনুষ্ঠান উপলক্ষে সে বাড়িতে আসছে।"
+      },
+      {
+        "menning":"দায়ীত্ব",
+        "sentence":"Don't phone him now, because he is on duty.",
+        "sentenceMenning":"তাকে এখন ফোন দিওনা, কারন সে ডিউটিতে আছে।"
+      },
+      {
+        "menning":"পায়েচলা",
+        "sentence":"Kiron goes to school on foot.",
+        "sentenceMenning":"কিরণ স্কুলে গেল পায়ে হেটে।"
+      },
+      {
+        "menning":"চালিয়ে যাওয়া",
+        "sentence":"Carry on your working.",
+        "sentenceMenning":"তোমার কাজ চালিয়ে যাও।"
+      },
+      {
+        "menning":"খেয়ে বাচা",
+        "sentence":"We live on rice.",
+        "sentenceMenning":"আমরা ভাত খেয়ে বাচিঁ।"
+      },
+      {
+        "menning":"যানবাহন",
+        "sentence":"Get on the train quickly.",
+        "sentenceMenning":"দূত গতিতে ট্রেনে ওঠেন।"
+      },
+      {
+        "menning":"বেতন",
+        "sentence":"She works in america on payment.",
+        "sentenceMenning":"সে আমেরিকার বেতনে কাজ করে।"
+      },
+      {
+        "menning":"জ্বালতন",
+        "sentence":"She was on her husband.",
+        "sentenceMenning":"সে তার হাজবেন্টকে জালাতন করে।"
+      },
+      {
+        "menning":"ঘটনা",
+        "sentence":"We want there on the death of her father.",
+        "sentenceMenning":"তার বাবার মৃত্যুতে আমরা সেখানে উপস্থিত ছিলাম।"
+      },
+      {
+        "menning":"বিষয়ে",
+        "sentence":"He knows many things on english grammer.",
+        "sentenceMenning":"সে জানে অনেককিছু্ ইংরেজী গ্রামারের উপর।"
+      },
+      {
+        "menning":"মতামত",
+        "sentence":"It's impossible to do the work on his opinion.",
+        "sentenceMenning":"তার মতামতে এই কাজটি করা অসম্ভব।"
+      },
+      {
+        "menning":"ঠিক সময়",
+        "sentence":"You must have to come here on time.",
+        "sentenceMenning":"ঠিক সময় তোমাকে অবশ্যই আসতে হবে।"
+      },
+      {
+        "menning":"অনুসারে",
+        "sentence":"You will be given money on your working.",
+        "sentenceMenning":"তোমার কাজ অনুসারে তোমাকে বেতন দেওয়া হবে।"
+      },
+      {
+        "menning":"পরপরই",
+        "sentence":"We saw a persion on eating rice.",
+        "sentenceMenning":"ভাত খাওয়ার পরপরই আমরা একজন লোক দেখলাম।"
+      },
+      {
+        "menning":"তীরে",
+        "sentence":"Narayanganj is situated on the shitaokkha river.",
+        "sentenceMenning":"নারায়নগঞ্জ অবস্থিত সীতলক্ষা নদীর তীরে।"
+      },
+      {
+        "menning":"ফ্লোরের সংখ্যা",
+        "sentence":"Hes rooms is on the 4 floor.",
+        "sentenceMenning":"তার বাসাটি ৪ তালায়।"
+      },
+      {
+        "menning":"সম্বন্ধে",
+        "sentence":"Write an essay on the bird.",
+        "sentenceMenning":"পাখি সম্বন্ধে একটি রচনা লেখ।"
+      },
+      {
+        "menning":"সময়/বর্ননা",
+        "sentence":"This place looks so beautifull on a moonlight.",
+        "sentenceMenning":"চাদনি রাতে এই জায়গাটা দেখতে খুব সুন্দর।"
+      }
+    ]
+  },
+  {
+    "topic":"in",
+    "top":"In এর 30 টি ব্যবহার।",
+    "uses":[
+      {
+        "menning":"মধ্যে",
+        "sentence":"There is a pen in his pocket.",
+        "sentenceMenning":"তার পকেটের মধ্যে একটি কলম আছে।"
+      },
+      {
+        "menning":"শহর",
+        "sentence":"I shall live in dhaka.",
+        "sentenceMenning":"আমি ঢাকাতে বসবাস করি।"
+      },
+      {
+        "menning":"দেশ",
+        "sentence":"I live in bangladesh.",
+        "sentenceMenning":"আমি বাংলাদেশে বসবাস করি।"
+      },
+      {
+        "menning":"মহাদেশ",
+        "sentence":"I live in asia continent.",
+        "sentenceMenning":"আমি এশিয়া মহাদেশে বসবাস করি।"
+      },
+      {
+        "menning":"সপ্তাহ",
+        "sentence":"I have come in this week.",
+        "sentenceMenning":"আমি এই সপ্তায় এসেছি।"
+      },
+      {
+        "menning":"মাস",
+        "sentence":"Sanjoy will come in january.",
+        "sentenceMenning":"সঞ্জয় আসবে জানুয়ারিতে।"
+      },
+      {
+        "menning":"ঋতু",
+        "sentence":"I fill will in summer.",
+        "sentenceMenning":"আমি গ্রীষ্মকালে ভাল অনুভব করি।"
+      },
+      {
+        "menning":"বছর",
+        "sentence":"I birth in 1971.",
+        "sentenceMenning":"১৯৭১ সালে আমি জন্মগ্রহন করি।"
+      },
+      {
+        "menning":"শতাব্দী",
+        "sentence":"We live in 100 years.",
+        "sentenceMenning":"আমরা ১০০ বছর বসবাস করি।"
+      },
+      {
+        "menning":"প্রতিষ্ঠান",
+        "sentence":"I learn english in onetime couching center.",
+        "sentenceMenning":"আমি ইংরেজী শিখি অনটােইম কচিং সেন্টারে।"
+      },
+      {
+        "menning":"বিষয়ে",
+        "sentence":"He has completed honourse in english.",
+        "sentenceMenning":"ইংরেজীতে সে অনার্স করেছে।"
+      },
+      {
+        "menning":"কল্পনা",
+        "sentence":"You are in my imagination.",
+        "sentenceMenning":"তুমি আমার কল্পনায় আছো।"
+      },
+      {
+        "menning":"স্বপ্ন",
+        "sentence":"You are just in my dream.",
+        "sentenceMenning":"তুমি শুধু আমার স্বপ্নে আছো।"
+      },
+      {
+        "menning":"ধ্যান",
+        "sentence":"Your love is in his think.",
+        "sentenceMenning":"তোমার ভালবাসা তার ধ্যানে আছে।"
+      },
+      {
+        "menning":"প্রেম",
+        "sentence":"It is not good to fall in love in the student life.",
+        "sentenceMenning":"ছা্ত্র জীবনে প্রেমে পড়ে কোন লাভ নেই।"
+      },
+      {
+        "menning":"ভাষা",
+        "sentence":"He can speak in english.",
+        "sentenceMenning":"সে ইংরেজীতে কথা বলতে পারে।"
+      },
+      {
+        "menning":"শ্রেণী",
+        "sentence":"His younger sister reads in class five.",
+        "sentenceMenning":"তার ছোটবোন ক্লাস ফাইবে পড়ে।"
+      },
+      {
+        "menning":"অবস্থা",
+        "sentence":"Is he in danger.",
+        "sentenceMenning":"সে কি বিপদের মধ্যে আছে।"
+      },
+      {
+        "menning":"পরিস্থিতি",
+        "sentence":"He will come in this situation.",
+        "sentenceMenning":"সে এই পরিস্থিতিতে আসবে।"
+      },
+      {
+        "menning":"বিশ্বাস",
+        "sentence":"You should belive in god.",
+        "sentenceMenning":"ভগবানকে বিশ্বাস করা উচিৎ।"
+      },
+      {
+        "menning":"ক্ষেত্রে",
+        "sentence":"It Should not neglect in working hard.",
+        "sentenceMenning":"কঠোর পরিশ্রম করার ক্ষেত্রে অবহেলা করা উচিৎ নয়।"
+      },
+      {
+        "menning":"বিবেচনা",
+        "sentence":"It has been done in has considering.",
+        "sentenceMenning":"তার বিবেচনায় এটা করা হয়েছে।"
+      },
+      {
+        "menning":"অতীত",
+        "sentence":"The people were normal in the past.",
+        "sentenceMenning":"অতীতে লোকজন ছিল সাদাসিদে।"
+      },
+      {
+        "menning":"ভবিষ্যত",
+        "sentence":"We shall get more technology.",
+        "sentenceMenning":"ভবিষ্যতে আমরা আরো টেকনোলজি পাব।"
+      },
+      {
+        "menning":"মাধ্যম",
+        "sentence":"This picture in drowen in pincile.",
+        "sentenceMenning":"এই ছবিটি পেনসিলে আকা।"
+      },
+      {
+        "menning":"নির্দিষ্ট সময়",
+        "sentence":"You should have come in time.",
+        "sentenceMenning":"তোমার নির্দিষ্ট সময়ে আসা উচিৎ।"
+      },
+      {
+        "menning":"সমাপ্তি",
+        "sentence":"We saw him in the ind.",
+        "sentenceMenning":"পরিশেষে আমরা তাকে দেখলাম।"
+      },
+      {
+        "menning":"অনির্দিষ্ট গ্রাম বা শহর",
+        "sentence":"He lives in a village.",
+        "sentenceMenning":"সে একটি গ্রামে বসবাস করে।"
+      },
+      {
+        "menning":"দীঘ্য ছুটিতে",
+        "sentence":"He well come at here in the summer vacation.",
+        "sentenceMenning":"গ্রীষ্মকালোর ছুটিতে সে বাড়ি আসবে।"
+      },
+      {
+        "menning":"কত বছরে",
+        "sentence":"In how many years have you completed your honours.",
+        "sentenceMenning":"তুমি কত বছরে তোমার অনার্স কপ্লিট করছো।"
+      }
+    ]
+  },
+  {
+    "topic":"at",
+    "top":"At এর 13 টি ব্যবহার।",
+    "uses":[
+      {
+        "menning":"নির্দিষ্ট সময়",
+        "sentence":"They go to school at 10:00 am.",
+        "sentenceMenning":"তারা ১০ টায় স্কুলে যায়।"
+      },
+      {
+        "menning":"অবস্থান",
+        "sentence":"Hi is at that army camp.",
+        "sentenceMenning":"সে ঐ আর্মি ক্যাম্পে আছে।"
+      },
+      {
+        "menning":"তাক করা",
+        "sentence":"Look at that white board.",
+        "sentenceMenning":"ঐ হোয়াইট বোর্ডটার দিকে তাকাও।"
+      },
+      {
+        "menning":"আঘাত করা",
+        "sentence":"He threw the boll at me.",
+        "sentenceMenning":"সে আমার দিকে বলটি মারলো।"
+      },
+      {
+        "menning":"কর্মস্থান",
+        "sentence":"He is at his shop now.",
+        "sentenceMenning":"সে এখন তার দোকানে আছে।"
+      },
+      {
+        "menning":"হার",
+        "sentence":"A jet plane goes at 5000 km perhour.",
+        "sentenceMenning":"একটা জেট বিমান ঘন্টাই ৫০০০ কি:মি বেগে ছোটে।"
+      },
+      {
+        "menning":"গতি",
+        "sentence":"A motorcycle goes at 150 km.",
+        "sentenceMenning":"একটি মটরসাইকেলের গতি ঘন্টাই ১৫০ কি:মি।"
+      },
+      {
+        "menning":"মাত্রা",
+        "sentence":"At the time of accident, the car at 100 km perhour.",
+        "sentenceMenning":"একসিডেন্টের সময় গাড়িটির গতি ছিল ১০০ কি:মি।"
+      },
+      {
+        "menning":"বয়স",
+        "sentence":"His father died at his four years.",
+        "sentenceMenning":"তার চার বছর বয়সে তার বাবা মারা যায়।"
+      },
+      {
+        "menning":"ক্রমনির্দেশক",
+        "sentence":"At the first sight, i couldn't recognise you.",
+        "sentenceMenning":"প্রথম দেখায় আমি আপনাকে চিনতে পারি নি।"
+      },
+      {
+        "menning":"মূল্য",
+        "sentence":"We bought it at the high rate.",
+        "sentenceMenning":"এটি আমরা ক্রয় করলাম চড়া দামে।"
+      },
+      {
+        "menning":"দায়িত্ব",
+        "sentence":"He will do it at his own risk.",
+        "sentenceMenning":"সে নিজ দায়িত্বে এটি করবে।"
+      },
+      {
+        "menning":"অপেক্ষাকৃত",
+        "sentence":"He lives at mirpur in dhaka.",
+        "sentenceMenning":"সে ঢাকার মধ্যে মিরপুরে বসবাস করে।"
+      }
+    ]
+  },
+  {
+    "topic":"for",
+    "top":"For এর 14 টি ব্যবহার।",
+    "uses":[
+      {
+        "menning":"জন্য",
+        "sentence":"We are ready for this work.",
+        "sentenceMenning":"আমরা এই কাজের জন্য রেডি আছি।"
+      },
+      {
+        "menning":"কারন",
+        "sentence":"He couldn't come here yesterday for his illness.",
+        "sentenceMenning":"তার অসুস্ততার কারনে গতকালকে সে এখানে আসতে পারিনি।"
+      },
+      {
+        "menning":"সময়",
+        "sentence":"It has been raining for 3 days.",
+        "sentenceMenning":"তিনদিন যাবৎ বৃষ্টি হচ্ছে।"
+      },
+      {
+        "menning":"উদ্দেশ্য",
+        "sentence":"Say something for Ameria.",
+        "sentenceMenning":"আমেরিকার উদ্দেশ্যে কিছু বলেন।"
+      },
+      {
+        "menning":"গন্তব্য",
+        "sentence":"This car left for Magura.",
+        "sentenceMenning":"এই গাড়িটি মাগুরা উদ্দেশ্যে রওনা দিল।"
+      },
+      {
+        "menning":"বিনিময়ে",
+        "sentence":"She got a good job fot talent.",
+        "sentenceMenning":"সে একটি ভাল চাকরি পেল মেধার গুনে।"
+      },
+      {
+        "menning":"কতদিয়ে/মূল্য",
+        "sentence":"How much do you pay for the cow.",
+        "sentenceMenning":"গরুটি কত দিয়ে কিনছেন।"
+      },
+      {
+        "menning":"পক্ষে",
+        "sentence":"He is always for me.",
+        "sentenceMenning":"সে সর্বদা আমার পক্ষে।"
+      },
+      {
+        "menning":"তুলনা",
+        "sentence":"He is short for his age.",
+        "sentenceMenning":"সে তার বয়সের তুলনাই ছোট।"
+      },
+      {
+        "menning":"দুরত্ব",
+        "sentence":"This car goes for K:M after K:M.",
+        "sentenceMenning":"এই গাড়িটি কি:মি পর কি:মি যায়।"
+      },
+      {
+        "menning":"সত্বেও",
+        "sentence":"I Couldn't write good in the exam for all that i have passed.",
+        "sentenceMenning":"আমি পরিক্ষাই ভাল লেখতে পারিনি তা সত্বেও আমি পাশ করেছি।"
+      },
+      {
+        "menning":"উইকেট",
+        "sentence":"The score is 10 for 5 wickets.",
+        "sentenceMenning":"পাঁচ উইকেটে দশ রান।"
+      },
+      {
+        "menning":"যুগে যুগে",
+        "sentence":"I can wait for you for ages.",
+        "sentenceMenning":"যাগে যুগে আমি তোমার জন্য অপেক্ষা করতে পারি।"
+      },
+      {
+        "menning":"মোট সময়",
+        "sentence":"They have been working here for 2 hours.",
+        "sentenceMenning":"তারা কাজ করতেছে দুই ঘন্টা ধরে।"
+      }
+    ]
+  }   
+]
